@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>75 St Alphonsus St<br>
+    <p>75 Saint Alphonsus St<br>
     Boston, MA 02120</p>
 
 news: false # includes a list of news items

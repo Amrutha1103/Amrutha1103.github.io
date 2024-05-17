@@ -1,36 +1,33 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Amrutha sai Edara",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "edara.a@northeastern.edu",
+    "phone": "(617) 749-5883",
+    "url": "https://github.com/Amrutha1103",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "75 Saint Alphonsus st",
+      "postalCode": "MA 02120",
+      "city": "Boston",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Boston"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Northeastern University",
+      "position": "Student Assistant",
+      "startDate": "2023-08-01",
+      "endDate": "2024-05-27"
+    },
+    {
+      "name": "Accenture solutions ptd ltd",
+      "position": "Application Development Analyst",
+      "startDate": "2021-06-14",
+      "endDate": "2022-07-26",
+      "summary": "Worked at Scottish Power Gas and Energy on legacy migrations with Deloitte, facilitating ODATA and ABAP script development. Developed Inbound/Outbound Interfaces using CPI, Proxies, and EDI to extract CU master data and transmit between legacy applications and ERP via REST API calls. Executed 15 ad hoc queries monthly, resolving 80% of system exceptions, and reprocessed failed IDOCs, achieving a 75% success rate in new connections and a 40% error reduction. Generated weekly and monthly KPI reports, enhanced middleware performance, and achieved 85% accuracy in tracking new connections.",
+      "highlights": ["Awarded a Customer Appreciation Bonus for best performer of the month within two months into the project."]
     }
   ],
   "volunteer": [
