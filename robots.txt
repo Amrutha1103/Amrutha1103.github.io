@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Amrutha1103.github.io/sitemap.xml
