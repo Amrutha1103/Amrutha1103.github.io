@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-cv_pdf: harin_resume.pdf
+cv_pdf: AmruthaSaiEdara_Resume.pdf
 subtitle: 
 
 profile:
@@ -10,8 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>701 EXP<br>
-    815 Columbus Ave<br>
+    <p>75 St Alphonsus St<br>
     Boston, MA 02120</p>
 
 news: false # includes a list of news items
@@ -19,6 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a robotics engineer with a Master’s degree in Robotics from Northeastern University, Boston, and a Bachelor’s degree in Mechanical Engineering from NIT Surat, India. My expertise spans deep learning, reinforcement learning, control systems engineering, computer vision, and mechatronic design. I have extensive experience working with diverse robotic morphologies, including snake robots, robot dogs, and humanoids.
-
-Driven by a passion for innovation, my goal is to contribute to the development of systems that aid humans in diverse fields like space exploration, disaster response operations, manufacturing, and beyond. If you share similar interests, I’d be delighted to connect and discuss further. Let’s explore the possibilities together!
+I am a graduate student at Northeastern University, specializing in Information Systems with a focus on Data Science. With an undergraduate degree in Electronics and Communication Engineering, I am skilled in Python, Java, and various machine learning techniques. Previously, I worked at Accenture as an Application Development Analyst, where I developed Oracle scripts and SAP ABAP solutions for the utilities industry.
