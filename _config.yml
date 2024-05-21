@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Amrutha Sai Edara # blog_name will be displayed in your blog page
+blog_name: Amrutha Edara # blog_name will be displayed in your blog page
 blog_description: Here I talk about stuff that excites me the most
 permalink: /blog/:year/:title/
 
